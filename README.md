@@ -1,5 +1,4 @@
 # CareerNest
-# CareerNest
 
 **A Full-Stack Student Career Management SaaS Platform**
 
